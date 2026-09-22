@@ -4,6 +4,8 @@
 
 > **ALPHA** - this is an early version. It works for the author, but expect rough edges and changes. Bug reports are welcome.
 
+[![Download](https://img.shields.io/badge/Download-latest%20build-e94560?style=for-the-badge&logo=github&logoColor=white)](../../releases)
+
 > Physical euro-style bills as money: serial numbers, an anti-dupe registry and bank NPCs.
 
 Money you can hold: bills in several denominations, each with its own **serial number**. A registry remembers every serial so a duplicated bill is detected and removed. Bank NPCs let players withdraw cash from, deposit cash to and pay from a scoreboard balance.
@@ -36,6 +38,8 @@ Every pack of mine carries a small easter egg: craft the **Dev Book** with **9 l
 
 - Game currency only - not real money and not legal tender. The bills imitate the look of euro banknotes for use inside the game.
 - Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
+
+![preview](euro-bills.png)
 
 ---
 
