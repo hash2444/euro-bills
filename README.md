@@ -13,6 +13,7 @@
 ---
 
 > **ALPHA** - this is an early version. It works for the author, but expect rough edges and changes. Bug reports are welcome.
+
 Money you can hold: bills in several denominations, each with its own **serial number**. A registry remembers every serial so a duplicated bill is detected and removed. Bank NPCs let players withdraw cash from, deposit cash to and pay from a scoreboard balance.
 
 ## What it does
